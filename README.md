@@ -15,7 +15,7 @@ This project focuses on building strong core logic, clean structure, and proper 
 - Filtering tasks by status (All / Pending / Completed)
 - Prevents completing or deleting already completed tasks
 - Clear and user-friendly console output
-- Proper logout confirmation message
+- Proper logout confirmation message.
 
 ---
 
